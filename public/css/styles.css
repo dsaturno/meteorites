@@ -1,0 +1,12 @@
+.map-title {
+  margin-top: -4%;
+}
+
+#map-container {
+  position: absolute;
+  float: left;
+  width:  100%;
+  height: 100%;
+  top:     12%;
+  left:    0px;
+}

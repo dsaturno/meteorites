@@ -1,0 +1,26 @@
+{
+  "name": "meteorites",
+  "version": "1.0.0",
+  "description": "Data visualizations of Meteorite Landings dataset provided by NASA's Data Portal",
+  "main": "server.js",
+  "dependencies": {
+    "d3": "~3.5.3",
+    "datamaps": "^0.4.0",
+    "express": "^4.13.3",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "N/A",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/A.git"
+  },
+  "author": "Daniel Saturno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n/A/issues"
+  },
+  "homepage": "https://github.com/n/A#readme"
+}
