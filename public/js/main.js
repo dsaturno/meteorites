@@ -1,13 +1,12 @@
 $(document).ready(function(){
-  var meteorites   = [],
+  var token = '5Jg6AlHXMzgOUi33YHU1ixGRL',
+      meteorites   = [],
       m_name       = [],
       m_mass_g     = [],
       m_fell_found = [],
       m_year       = [],
       m_latitude   = [],
       m_longitude  = [];
-
-  // var token = '5Jg6AlHXMzgOUi33YHU1ixGRL';
 
   // world map
   var map = new Datamap({
