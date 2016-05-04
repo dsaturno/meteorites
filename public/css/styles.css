@@ -1,9 +1,22 @@
-.map-title {
-  margin-top: -4%;
+h1 {
+  font-family: 'Marcellus SC', serif;
+  margin-top: -10%;
+  font-size: 42pt;
 }
 
-#map-container {
-  position: absolute;
+p {
+  font-family: 'Palatino';
+  font-weight: lighter;
+  color: gray;
+}
+
+footer {
+  font-size: 9pt;
+  font-weight: 200;
+}
+
+#basic {
+  position: absolute;;
   float: left;
   width:  100%;
   height: 100%;

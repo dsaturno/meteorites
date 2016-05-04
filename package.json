@@ -6,11 +6,10 @@
   "dependencies": {
     "d3": "~3.5.3",
     "datamaps": "^0.4.0",
-    "express": "^4.13.3",
+    "express": "^4.13.3"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "N/A",
     "start": "nodemon server.js"
   },
   "repository": {
